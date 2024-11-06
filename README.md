@@ -1,2 +1,2 @@
 # MobilHarita-dev
-Muhammed Taha Bayraktar 02210201066
+Muhammed Taha Bayraktar
